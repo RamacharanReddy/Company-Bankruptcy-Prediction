@@ -13,8 +13,10 @@ About DataSet:
 ■ 95 features (X1-X95, business regulations of Taiwan Stock Exchange) 1 Vector of labels Our aim in this project is to use these features to understand their impact/role on the selected models and how they can help us recognizing the companies that are close to bankruptcy.
 
 Source:
+
 The data was obtained from UCI Machine Learning Repository: https://archive.ics.uci.edu/ml/datasets/Taiwanese+Bankruptcy+Prediction
 
 Relevant Papers:
+
 Liang, D., Lu, C.-C., Tsai, C.-F., and Shih, G.-A. (2016) Financial Ratios and Corporate Governance Indicators in Bankruptcy Prediction: A Comprehensive Study. European Journal of Operational Research, vol. 252, no. 2, pp. 561-572.
 https://www.sciencedirect.com/science/article/pii/S0377221716000412
